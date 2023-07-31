@@ -1,0 +1,8 @@
+[STEPS]
+Number=1
+
+[STEP_001]
+Step_name=Step1
+Description=TestMode
+Status=Pass
+
