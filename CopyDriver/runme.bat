@@ -1,0 +1,1 @@
+robocopy "GFX DRIVER FOLDER PATH" C:\TACCDrv /mir
